@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://colab.research.google.com/github/phuc123asd/Fine-tune-LLM/blob/main/finetune.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" />
+    <img src="https://colab.research.google.com/drive/18BUeDj-2w9g4dWajSpC-WfpoMfrCxg_9?usp=sharing" />
   </a>
 </p>
 
