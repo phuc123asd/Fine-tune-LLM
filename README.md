@@ -4,12 +4,6 @@
   <a href="https://colab.research.google.com/github/phuc123asd/Fine-tune-LLM/blob/main/finetune.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" />
   </a>
-  <a href="https://github.com/phuc123asd/Fine-tune-LLM">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github" alt="GitHub Repo" />
-  </a>
-  <img src="https://img.shields.io/badge/QLoRA-4bit-blue" alt="QLoRA 4-bit" />
-  <img src="https://img.shields.io/badge/PEFT-LoRA-green" alt="PEFT LoRA" />
-  <img src="https://img.shields.io/badge/Platform-Google%20Colab-orange" alt="Google Colab" />
 </p>
 
 A practical **LLM fine-tuning project** that shows how to train a conversational language model with **QLoRA 4-bit** on **Google Colab**, save the trained **LoRA adapter**, and reload it later for inference.
